@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Preferencias</string>
+    <string name="action_test">Prueba</string>
+    <string name="app_name">Fortune Ball</string>
+    <string name="fortune_description">Di una pregunta a la que puedas responder "si" o "no", luego haz click en la bola mágica.</string>
+</resources>
